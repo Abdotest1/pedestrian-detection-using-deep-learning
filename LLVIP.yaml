@@ -1,0 +1,6 @@
+path: C:\Users\abdoo\OneDrive\Desktop\test\LLVIP_YOLO
+train: C:\Users\abdoo\OneDrive\Desktop\test\LLVIP_YOLO\images\train
+val: C:\Users\abdoo\OneDrive\Desktop\test\LLVIP_YOLO\images\val
+
+nc: 1
+names: ['pedestrian']
